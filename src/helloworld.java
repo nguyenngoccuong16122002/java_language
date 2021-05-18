@@ -1,4 +1,4 @@
-
+package src;
 
 class HelloWorld {
     public static void main(String[] args) {

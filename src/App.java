@@ -1,5 +1,4 @@
-
-
+package src;
 
 class Student2 {
     int id;
