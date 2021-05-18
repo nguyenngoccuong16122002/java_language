@@ -1,3 +1,4 @@
+package src;
 class Rectangle
 {
     private double length;
